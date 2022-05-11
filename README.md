@@ -1,2 +1,2 @@
 # PHP-Assignments
-El-Zero Web School | PHP Bootcamp Assignmemts
+El-Zero Web School | PHP Bootcamp Assignments
